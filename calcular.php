@@ -42,6 +42,7 @@ $concatenacao = $n1.$n2;
         <h3>
             <?php echo "$n1 <sup> $n2 </sup> = ".number_format($potencia,2,','); ?>
         </h3>
+        <a href="index.php">Voltar</a>
     </div>
 </body>
 </html>
